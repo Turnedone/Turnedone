@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Turnedone: desktop apps and data tools in Python">
+  <rect x="0.5" y="0.5" width="899" height="169" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="40" y="78" font-size="40" font-weight="800" fill="#1f2328">Hi, I'm Turnedone</text>
+    <text x="42" y="116" font-size="19" fill="#59636e">I build practical desktop apps and data / machine-learning tools, mostly in Python.</text>
+  </g>
+  <g transform="translate(760 40)" opacity="0.9">
+    <rect x="0" y="0" width="98" height="90" rx="12" fill="none" stroke="#d1d9e0"/>
+    <path d="M22 66 L42 44 L58 56 L78 28" fill="none" stroke="#cf222e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="78" cy="28" r="5" fill="#cf222e"/>
+  </g>
+</svg>
