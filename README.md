@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Hi, I'm Turnedone. I build practical desktop apps and data / machine-learning tools, mostly in Python." width="100%">
+  <img src="assets/header-light.svg" alt="Hi, I'm Loukas Pavlou. I build practical desktop apps and data / machine-learning tools, mostly in Python." width="100%">
 </picture>
 
 I like turning a question into a tool you can actually use: *what's worth watching tonight?*,

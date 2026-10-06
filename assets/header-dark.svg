@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Turnedone: desktop apps and data tools in Python">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Loukas Pavlou (Turnedone): desktop apps and data tools in Python">
   <rect x="0.5" y="0.5" width="899" height="169" rx="14" fill="#0d1117" stroke="#30363d"/>
   <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
-    <text x="40" y="78" font-size="40" font-weight="800" fill="#e6edf3">Hi, I'm Turnedone</text>
+    <text x="40" y="78" font-size="40" font-weight="800" fill="#e6edf3">Hi, I'm Loukas Pavlou</text>
     <text x="42" y="116" font-size="19" fill="#9198a1">I build practical desktop apps and data / machine-learning tools, mostly in Python.</text>
   </g>
   <g transform="translate(760 40)" opacity="0.9">
