@@ -7,6 +7,8 @@ I like turning a question into a tool you can actually use: *what's worth watchi
 *does this trading idea really work after costs?* I care about honest numbers, fast interfaces and
 software that respects your time (and your API quotas).
 
+🌐 **[turnedone.github.io](https://turnedone.github.io)** · ✉️ [loukas.pavlou11@gmail.com](mailto:loukas.pavlou11@gmail.com) · 📍 Greece
+
 ## 🚀 Featured projects
 
 <table>
@@ -15,7 +17,7 @@ software that respects your time (and your API quotas).
       <a href="https://github.com/Turnedone/flixdex">
         <img src="https://raw.githubusercontent.com/Turnedone/flixdex/main/docs/screenshot.png" alt="Flixdex screenshot">
       </a>
-      <h3><a href="https://github.com/Turnedone/flixdex">Flixdex</a></h3>
+      <h3><a href="https://turnedone.github.io/flixdex/">Flixdex</a></h3>
       Every Netflix &amp; HBO Max title in your country, with IMDb ratings, in one fast Windows app.
       Search, filters, sorting and one-click <i>Watch</i> links. Uses only free data sources with no daily limits.
       <br><br>
@@ -27,7 +29,7 @@ software that respects your time (and your API quotas).
       <a href="https://github.com/Turnedone/edgelab">
         <img src="https://raw.githubusercontent.com/Turnedone/edgelab/main/docs/dashboard.png" alt="EdgeLab dashboard">
       </a>
-      <h3><a href="https://github.com/Turnedone/edgelab">EdgeLab</a></h3>
+      <h3><a href="https://turnedone.github.io/edgelab/">EdgeLab</a></h3>
       Does an intraday machine-learning stock strategy have a real edge after costs? A research system built to
       answer honestly: walk-forward validation, realistic costs, random baselines, Deflated Sharpe and an
       interactive virtual-money dashboard. (So far, the answer is no.)
@@ -39,7 +41,7 @@ software that respects your time (and your API quotas).
 
 ### Also
 
-- **[computational-intelligence](https://github.com/Turnedone/computational-intelligence)**: university coursework (2020) predicting MovieLens ratings with a neural network and a genetic algorithm.
+- **[computational-intelligence](https://github.com/Turnedone/computational-intelligence)**: predicting MovieLens ratings with a neural network and a genetic algorithm. University coursework from 2020, cleaned up, bug-fixed and tested.
 
 ## 🧰 Tools I use
 
