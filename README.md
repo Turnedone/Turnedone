@@ -7,7 +7,7 @@ I like turning a question into a tool you can actually use: *what's worth watchi
 *does this trading idea really work after costs?* I care about honest numbers, fast interfaces and
 software that respects your time (and your API quotas).
 
-🌐 **[turnedone.github.io](https://turnedone.github.io)** · ✉️ [loukas.pavlou11@gmail.com](mailto:loukas.pavlou11@gmail.com) · 📍 Greece
+🌐 **[turnedone.github.io](https://turnedone.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/luke-pavlou-753104219/) · ✉️ [loukas.pavlou11@gmail.com](mailto:loukas.pavlou11@gmail.com) · 📍 Greece
 
 ## 🚀 Featured projects
 
