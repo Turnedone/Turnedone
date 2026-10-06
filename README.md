@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Hi, I'm Loukas Pavlou. I build practical desktop apps and data / machine-learning tools, mostly in Python." width="100%">
+  <img src="assets/header-light.svg" alt="Hi, I'm Loukas Pavlou. SQL, PL/SQL and Oracle APEX developer. Python and machine-learning side projects." width="100%">
 </picture>
 
-I like turning a question into a tool you can actually use: *what's worth watching tonight?*,
-*does this trading idea really work after costs?* I care about honest numbers, fast interfaces and
-software that respects your time (and your API quotas).
+Software developer at **Allianz Greece**, working mainly with **SQL, PL/SQL and Oracle APEX**.
+On the side I build Python apps and machine-learning research tools, the kind that answer a real question:
+*what's worth watching tonight?*, *does this trading idea survive real costs?*
 
 🌐 **[turnedone.github.io](https://turnedone.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/luke-pavlou-753104219/) · ✉️ [loukas.pavlou11@gmail.com](mailto:loukas.pavlou11@gmail.com) · 📍 Greece
 
@@ -45,6 +45,8 @@ software that respects your time (and your API quotas).
 
 ## 🧰 Tools I use
 
+![SQL](https://img.shields.io/badge/SQL%20%2F%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-C74634?style=flat-square&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt%20%2F%20PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)

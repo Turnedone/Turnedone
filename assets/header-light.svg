@@ -2,7 +2,7 @@
   <rect x="0.5" y="0.5" width="899" height="169" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
   <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
     <text x="40" y="78" font-size="40" font-weight="800" fill="#1f2328">Hi, I'm Loukas Pavlou</text>
-    <text x="42" y="116" font-size="19" fill="#59636e">I build practical desktop apps and data / machine-learning tools, mostly in Python.</text>
+    <text x="42" y="116" font-size="19" fill="#59636e">SQL, PL/SQL and Oracle APEX developer. Python and machine-learning side projects.</text>
   </g>
   <g transform="translate(760 40)" opacity="0.9">
     <rect x="0" y="0" width="98" height="90" rx="12" fill="none" stroke="#d1d9e0"/>
